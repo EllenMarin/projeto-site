@@ -10,6 +10,17 @@ body{
 main {
     background-color: white;
     width: 500px;
+    padding: 5%;
     margin: auto;
     box-shadow: 3px 3px 5px black;
+}
+
+img.lado{
+    float: right;
+    width: 100px;
+
+}
+
+img.esq{
+    width: 50px;
 }
